@@ -1058,12 +1058,13 @@ a {
 
   /* count down timmer*/
   #demo{
-    font-size: 1.2 em;
+    /* font-size: 1.2 em; */
     text-align: center;
     font-weight: bold;
     padding: 18px;
     margin-bottom: 0px;
     background-color: rgba(108, 26, 147, .5);
+    font-size: 1.5em;
   }
   @media all and (max-width: 940px) {
     #demo{
@@ -1076,6 +1077,7 @@ a {
   @media all and (max-width: 480px) {
     #demo{
       width: 197px;
+      font-size: 1.33em;
     } }
 
   .container-2 {
