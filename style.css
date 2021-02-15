@@ -1068,15 +1068,15 @@ a {
   }
   @media all and (max-width: 940px) {
     #demo{
-      width: 266px;
+      width: 309px;
     }}
   @media all and (max-width: 648px) {
     #demo{
-      width: 254px;
+      width: 294px;
     } }
   @media all and (max-width: 480px) {
     #demo{
-      width: 197px;
+      width: 233px;
       font-size: 1.33em;
     } }
 
